@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "license_server": {
-    "primary_domain": "https://supertool.pages.dev",
+    "primary_domain": "https://heavily-output-thereby-committees.trycloudflare.com",
     "cloudflare_domains": [
       "https://supertool.pages.dev",
       "https://supertool-worker.workers.dev",
@@ -31,7 +31,7 @@
     "timeout": 5
   },
   "metadata": {
-    "last_updated": "2026-04-26T13:46:00Z",
+    "last_updated": "2026-04-26T13:58:00Z",
     "next_check": "2026-04-26T14:46:00Z",
     "config_version": "1.0.0",
     "notes": "Initial Cloudflare domain configuration"
