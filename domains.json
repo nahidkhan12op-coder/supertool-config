@@ -1,7 +1,8 @@
 {
-  "license_server": "https://your-license-domain.trycloudflare.com",
-  "update_server": "https://your-update-domain.trycloudflare.com", 
+  "license_server": "https://assigned-tide-scout-electricity.trycloudflare.com",
+  "update_server": "https://your-update-domain.trycloudflare.com",
   "admin_panel": "https://your-admin-domain.trycloudflare.com",
   "last_updated": "2026-04-26",
-  "version": "1.0"
+  "version": "1.0",
+  "note": "Upload this file to GitHub repository: https://github.com/nahidkhan12op-coder/supertool-config"
 }
